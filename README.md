@@ -39,20 +39,25 @@ Antes da tecnologia, atuei no **mercado imobiliário** desde 2014, com formaçã
 
 ## 🌐 Onde me encontrar
 
-<div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnersequineli)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnersequineli)
-</div>
+<p align="center">
+  <a href="https://github.com/wagnersequineli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wagnersequineli">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ## 📱 Contato
 
-<div align="center">
-  📧 **E-mail**: [wagnersequineli@gmail.com](mailto:wagnersequineli@gmail.com)  
-  📱 **WhatsApp**: [41 99224-2203](https://wa.me/5541992242203)
-</div>
+<p align="center">
+  📧 **E-mail**: <a href="mailto:wagnersequineli@gmail.com">wagnersequineli@gmail.com</a><br>
+  📱 **WhatsApp**: <a href="https://wa.me/5541992242203">41 99224-2203</a>
+</p>
 
+---
 
 <p align="center">
   Feito com ❤️ e café por um dev em constante evolução ☕
