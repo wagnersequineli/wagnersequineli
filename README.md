@@ -39,17 +39,15 @@ Antes da tecnologia, atuei no **mercado imobiliário** desde 2014, com formaçã
 
 ## 🌐 Onde me encontrar
 
-<div align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnersequineli)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnersequineli)
-</div>
 
 ---
-<div align="center">
+
 **Contato**  
 📧 E-mail: [wagnersequineli@gmail.com](mailto:wagnersequineli@gmail.com)  
 📱 WhatsApp: [41 99224-2203](https://wa.me/5541992242203)
-</div>
+
 ---
 
 <p align="center">
