@@ -31,7 +31,7 @@ Antes da tecnologia, atuei no **mercado imobiliário** desde 2014, com formaçã
 
 ## 📚 Meus objetivos
 
-- 📌 Aprimorar minhas habilidades em Front-End
+- 📌 Aprimorar minhas habilidades em Front-End e Back-End
 - 💡 Desenvolver projetos interativos e criativos
 - 🧠 Continuar aprendendo novas tecnologias e tendências
 
