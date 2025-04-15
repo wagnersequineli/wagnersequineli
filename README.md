@@ -53,8 +53,8 @@ Antes da tecnologia, atuei no **mercado imobiliário** desde 2014, com formaçã
 ## Contato
 
 <p align="center">
-  📧 E-mail: <a href="mailto:wagnersequineli@gmail.com">wagnersequineli@gmail.com</a><br>
-  📱 WhatsApp: <a href="https://wa.me/5541992242203">41 99224-2203</a>
+  📧 <a href="mailto:wagnersequineli@gmail.com">wagnersequineli@gmail.com</a><br>
+  📱 <a href="https://wa.me/5541992242203">41 99224-2203</a>
 </p>
 
 ---
