@@ -1,4 +1,4 @@
-# 👋 Olám, sou o Wagner Sequineli, Desenvolvedor em Formação! 
+# 👋 Olá, sou o Wagner Sequineli, Desenvolvedor em Formação! 
 
 🎯 Entusiasta de tecnologia e inovação, com 31 anos de idade, minha jornada na programação começou por curiosidade e logo se transformou na minha paixão. Atualmente, estou focado em Front-End, trabalhando com **HTML**, **CSS**, **JavaScript** e frameworks modernos como **React** e **Vue.js**.
 
