@@ -64,5 +64,5 @@ Antes da tecnologia, atuei no **mercado imobiliário** desde 2014, com formaçã
 ---
 
 <p align="center">
-  Feito com ❤️ e café por um dev em constante evolução ☕
+  🧑‍💻 Por trás do código, um dev em constante refatoração pessoal e profissional.
 </p>
