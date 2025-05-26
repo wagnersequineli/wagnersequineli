@@ -60,7 +60,7 @@ Antes da tecnologia, atuei no **mercado imobiliário** desde 2014, com formaçã
 
 ---
 
-## Contato
+## Contatos
 
 <p align="center">
   📧 <a href="mailto:wagnersequineli@gmail.com">wagnersequineli@gmail.com</a><br>
