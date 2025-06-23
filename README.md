@@ -1,6 +1,6 @@
 # Olá, sou o Wagner Sequineli, Desenvolvedor em Formação! 
 
-Entusiasta de tecnologia e inovação, com 31 anos de idade, minha jornada na programação começou por curiosidade e logo se transformou na minha paixão. Atualmente, estou ampliando meus conhecimentos tanto em Front-End como em Back-End, para me tornar um profissional Full-Stack, trabalhando com **HTML**, **CSS**, **JavaScript**, **Java** e frameworks modernos como **React** e **Collections".
+Entusiasta de tecnologia e inovação, com 31 anos de idade, minha jornada na programação começou por curiosidade e logo se transformou na minha paixão. Atualmente, estou ampliando meus conhecimentos tanto em Front-End como em Back-End, para me tornar um profissional Full-Stack, trabalhando com **HTML**, **CSS**, **JavaScript**, **Java** e frameworks modernos como **React** e **Collections**.
 
 Trabalho com a criação de interfaces interativas, responsivas e intuitivas, buscando sempre entregar a melhor experiência ao usuário. Meu objetivo é converter ideias em soluções digitais eficazes, mantendo-me sempre atualizado com as últimas tendências do setor.
 
